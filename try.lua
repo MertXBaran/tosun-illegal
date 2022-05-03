@@ -1,1 +1,1 @@
-print("^6Kod loadlandi")
+print("^6Kod loadlandi adanali sa")
